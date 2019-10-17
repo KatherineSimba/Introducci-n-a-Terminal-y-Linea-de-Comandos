@@ -10,6 +10,12 @@ Esta interfaz existe casi desde los comienzos de la computación, superada en an
 # Funcionamiento
 En su forma más simple, una CLI consiste en un espacio donde se pueden escribir órdenes (por lo general, señalizado con un prompt). El usuario teclea una orden y la ejecuta al pasar a la línea siguiente, utilizando la tecla Entrar.
 
+La interfaz de línea de comandos o interfaz de línea de órdenes que permite a los usuarios dar instrucciones a algún programa informático por medio de una línea de texto simple.
+
+Esta interfaz existe casi desde los comienzos de la computación, superada en antigüedad solo por las tarjetas perforadas y mecanismos similares. Existen para diversos programas y sistemas operativos, para diverso hardware, y con distinta funcionalidad.
+
+En su forma más simple, una CLI consiste en un espacio donde se pueden escribir órdenes. 
+
 Las órdenes dadas a la CLI son con frecuencia de la forma:
 
 PROMPT>aplicación [parametros] ficheros o URI...
