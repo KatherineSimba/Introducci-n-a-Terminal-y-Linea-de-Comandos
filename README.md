@@ -7,6 +7,8 @@ Las CLI pueden emplearse interactivamente, escribiendo instrucciones en alguna e
 
 Esta interfaz existe casi desde los comienzos de la computación, superada en antigüedad solo por las tarjetas perforadas y mecanismos similares. Existen para diversos programas y sistemas operativos, para diverso hardware, y con distinta funcionalidad.
 
+La ventana, que generalmente es llamada línea de comandos ó interfaz de línea de comandos, es una aplicación basada en texto para ver, manejar y manipular archivos en tu ordenador. Similar a Windows Explorer o Finder en Mac, pero sin la interfaz gráfica. Otros nombres para la línea de comandos son: cmd, CLI, prompt -símbolo de sistema-, console -consola- o terminal.
+
 # Funcionamiento
 En su forma más simple, una CLI consiste en un espacio donde se pueden escribir órdenes (por lo general, señalizado con un prompt). El usuario teclea una orden y la ejecuta al pasar a la línea siguiente, utilizando la tecla Entrar.
 
